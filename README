@@ -1,1 +1,21 @@
-Documents for Operating Systems Course 2021-2022 at TecnoCampus
+### Proyecto de Sistemas: Exploración Técnica
+
+Este repositorio es una compilación técnica de conocimientos fundamentales sobre sistemas informáticos. Sumérgete en cada uno de los aspectos clave:
+
+#### Diseño de Makefiles
+
+En esta sección, encontrarás ejemplos concretos y directrices técnicas para diseñar Makefiles eficientes. Cubrimos desde la estructura básica hasta técnicas avanzadas para gestionar dependencias y automatizar la compilación de proyectos.
+
+#### Configuración de Protocolos TCP y UDP
+
+Explora detalladamente la configuración y el funcionamiento de los protocolos TCP y UDP. Abordamos temas como la estructura de los paquetes, el establecimiento de conexiones y la transmisión de datos, con un enfoque técnico y práctico.
+
+#### Métodos de Sincronización de Procesos y Threads
+
+Sumérgete en los métodos técnicos para sincronizar procesos y threads en entornos multi-hilo. Desde el uso de semáforos y mutex hasta la implementación de técnicas avanzadas como exclusiones mutuas y monitores, cubrimos todas las bases para garantizar la coherencia de los datos en sistemas concurrentes.
+
+#### Herramientas de Sincronización como Mutex y Semáforos
+
+Explora en profundidad el uso de herramientas de sincronización como mutex y semáforos. A través de ejemplos prácticos y análisis detallados, aprende cómo aplicar estas herramientas para gestionar la concurrencia y garantizar la integridad de los datos en tus proyectos.
+
+Este repositorio está diseñado para aquellos que buscan una comprensión técnica profunda de los sistemas informáticos. Siempre estamos abiertos a discusiones técnicas, contribuciones y sugerencias de la comunidad. ¡Únete a nosotros y profundiza en el fascinante mundo de los sistemas informáticos!
