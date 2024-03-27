@@ -1,4 +1,4 @@
-### Proyecto de Sistemas: Exploración Técnica
+# Proyecto de Sistemas: Exploración Técnica
 
 Este repositorio es una compilación técnica de conocimientos fundamentales sobre sistemas informáticos. Sumérgete en cada uno de los aspectos clave:
 
@@ -19,3 +19,22 @@ Sumérgete en los métodos técnicos para sincronizar procesos y threads en ento
 Explora en profundidad el uso de herramientas de sincronización como mutex y semáforos. A través de ejemplos prácticos y análisis detallados, aprende cómo aplicar estas herramientas para gestionar la concurrencia y garantizar la integridad de los datos en tus proyectos.
 
 Este repositorio está diseñado para aquellos que buscan una comprensión técnica profunda de los sistemas informáticos. Siempre estamos abiertos a discusiones técnicas, contribuciones y sugerencias de la comunidad. ¡Únete a nosotros y profundiza en el fascinante mundo de los sistemas informáticos!
+
+
+
+# Systems Project: Technical Exploration
+This repository is a technical compilation of fundamental knowledge about computer systems. Dive into each of the key aspects:
+
+### Makefile Design
+In this section, you'll find concrete examples and technical guidelines for designing efficient Makefiles. We cover everything from basic structure to advanced techniques for managing dependencies and automating project compilation.
+
+### TCP and UDP Protocol Configuration
+Explore in detail the configuration and operation of TCP and UDP protocols. We delve into topics such as packet structure, connection establishment, and data transmission, with a technical and practical approach.
+
+### Process and Thread Synchronization Methods
+Immerse yourself in technical methods for synchronizing processes and threads in multi-threaded environments. From the use of semaphores and mutexes to the implementation of advanced techniques like mutual exclusions and monitors, we cover all the bases to ensure data consistency in concurrent systems.
+
+### Synchronization Tools such as Mutexes and Semaphores
+Explore deeply the use of synchronization tools such as mutexes and semaphores. Through practical examples and detailed analysis, learn how to apply these tools to manage concurrency and ensure data integrity in your projects.
+
+This repository is designed for those seeking a deep technical understanding of computer systems. We are always open to technical discussions, contributions, and suggestions from the community. Join us and delve into the fascinating world of computer systems!
